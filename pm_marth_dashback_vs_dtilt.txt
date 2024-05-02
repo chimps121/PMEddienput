@@ -1,0 +1,19 @@
+configs/pm.json
+
+W120
+#perfectffnair
+X
+W3
+A
+W20
+ControlStickDown
+W10
+	startmix
+	#dashback
+	option 50
+		[ControlStickRight] W10 ]ControlStickRight[ [ControlStickLeft] W3 ]ControlStickLeft[
+	#dtilt	
+	option 50
+		[ControlStickDown] [ControlStickMod] [A] W20 ]ControlStickDown[ ]ControlStickMod[ ]A[
+	endmix
+W50
